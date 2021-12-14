@@ -1,0 +1,20 @@
+create-user julio.melo@imd.ufrn.br 12ab34cd Julio Melo
+create-user julio.melo@imd.ufrn.br 12ab34cd Julio Cesar
+
+login julio.melo@imd.ufrn. 12ab34c
+login julio.melo@imd.ufrn.br 12ab34c
+login julio.melo@imd.ufrn.br 12ab34cd
+
+delete-user julio.melo@imd.ufrn 12ab34c
+delete-user julio.melo@imd.ufrn.br 12ab34cd
+
+disconnect 2
+disconnect 1
+disconnect 1
+
+delete-user julio.melo@imd.ufrn.br 12ab34c
+delete-user julio.melo@imd.ufrn.br 12ab34cd
+
+create-user julio.melo@imd.ufrn.br 12ab34cd Julio Melo
+
+
